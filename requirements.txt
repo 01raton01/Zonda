@@ -9,7 +9,7 @@ numpy==1.16.2
 Pint==0.9
 pycodestyle==2.5.0
 pyflakes==2.1.1
-PyQt5==6.0.0
+PyQt5==5.15.9
 PyQt5-sip==12.7.0
 rope==0.14.0
 sip==5.0.0
